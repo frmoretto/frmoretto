@@ -8,7 +8,7 @@ I build open-source tools for AI safety and epistemic quality, document what oth
 
 ### Published Work
 
-**[Claude's Hidden Toolkit](https://github.com/N1-AI/claude-hidden-toolkit)** — 100+ page reverse-engineering of Claude.ai's 28 internal tools. Detailed technical cards, cross-platform verification (browser / desktop / mobile), behavioral testing. Published under N1AI. The first systematic documentation of its kind. - 100k+ views on Reddit, 1k shares, 200+ upvotes with 96% uppvote ratio.
+**[Claude's Hidden Toolkit](https://github.com/N1-AI/claude-hidden-toolkit)** — 100+ page reverse-engineering of Claude.ai's 28 internal tools. Detailed technical cards, cross-platform verification (browser / desktop / mobile), behavioral testing. Published under N1AI. The first systematic documentation of its kind. - 100k+ views on Reddit, 1k shares, 200+ upvotes with 96% upvote ratio.
 
 **[Hardstop](https://github.com/frmoretto/hardstop)** — Fail-closed safety plugin for Claude Code and Cowork. Two-layer defense: 170 regex patterns + Haiku semantic analysis.
 
