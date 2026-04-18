@@ -28,10 +28,10 @@ I build open-source tools for AI safety and epistemic quality, document what oth
 
 ### Speaking
 
-- Claude Code Meetup Milano — Hardstop safety plugin (Feb 2026)
-- AI Tinkerers Milano — Voice AI live demo (Jun 2025)
-- Aperitivo AI Milano — Stream Coding methodology (Dec 2025)
-- Anthropic Builder Summit London (Oct 2025)
+- Agents Anonymous Milan Stream Coding methodology (Mar 2026) 
+- Claude Code Meetup Milan — Hardstop safety plugin (Feb 2026)
+- AI Tinkerers Milan — Voice AI live demo (Jun 2025)
+- Aperitivo AI Milan — Stream Coding methodology (Dec 2025)
 
 
 ---
