@@ -28,7 +28,7 @@ I build open-source tools for AI safety and epistemic quality, document what oth
 
 ### Speaking
 
-- Agents Anonymous Milan Stream Coding methodology (Mar 2026) 
+- Agents Anonymous Milan - Stream Coding methodology (Mar 2026) 
 - Claude Code Meetup Milan — Hardstop safety plugin (Feb 2026)
 - AI Tinkerers Milan — Voice AI live demo (Jun 2025)
 - Aperitivo AI Milan — Stream Coding methodology (Dec 2025)
