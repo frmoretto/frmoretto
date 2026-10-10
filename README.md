@@ -32,6 +32,7 @@ I work on how AI agents discover, read and buy from merchants, and on what merch
 
 ### Speaking
 
+- DINAMICA Workshop, LIUC Università Carlo Cattaneo, Castellanza: *Perverse Incentives in Academic AI Detection: From Inferring to Declaring AI Use (Oct 2026)
 - W3C / GS1 Workshop, Zurich: *Toward a Shared Convention for the Publisher-Side Agent Surface* (Sep 2026)
 - ILTA Legal Tech On Tour, Milan: fireside on practical AI adoption in the legal profession (Jun 2026)
 - Agents Anonymous Milan: Stream Coding methodology (Mar 2026)
